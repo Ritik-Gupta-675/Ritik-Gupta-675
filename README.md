@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Ritik Gupta
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning next.js
-- 📫 How to reach me ritikguptawork675@gmail.com
-
 <h1 align="center">Hi, I'm Ritik Gupta</h1>
 
 💫 **About Me:**  
