@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ritik Gupta</h1>
 
 💫 **About Me:**  
-🚀 Full Stack Web Developer | 📌 Open to opportunities | 🔧 Passionate about solving complex problems | 🌍 Building scalable systems  
+🚀 Web Developer | 📌 Open to opportunities | 🔧 Passionate about solving complex problems
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-maurya/) [![X](https://img.shields.io/badge/%20-%23000000.svg?logo=x&logoColor=white)](https://x.com/Luc27aV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luc27av)  
@@ -14,7 +14,7 @@
 **Languages:** ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=va24nsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=va24nsh&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=va24nsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ritik-Gupta-675&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=Ritik-Gupta-675&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-Gupta-675&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!---
 Ritik-Gupta-675/Ritik-Gupta-675 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
