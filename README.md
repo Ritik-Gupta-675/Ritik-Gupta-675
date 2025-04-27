@@ -4,7 +4,7 @@
 🚀 Web Developer | 📌 Open to opportunities | 🔧 Passionate about solving complex problems
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vansh-maurya/](https://www.linkedin.com/in/ritik-gupta-412186283/)) [![X](https://img.shields.io/badge/%20-%23000000.svg?logo=x&logoColor=white)]([https://x.com/Luc27aV](https://x.com/RitikGupta70467)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritik_guptag)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/ritik-gupta-412186283/)]) [![X](https://img.shields.io/badge/%20-%23000000.svg?logo=x&logoColor=white)]([(https://x.com/RitikGupta70467)]) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritik_guptag)  
 
 ## 💻 Tech Stack:
 **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-9C27B0?logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-FF4081?logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-5A4FCF?logo=prisma&logoColor=white)  
